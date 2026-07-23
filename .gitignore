@@ -1,0 +1,10 @@
+# Temporary scripts
+crop.ps1
+crop_drone.ps1
+fetch_real_drone.ps1
+create_custom_drone.ps1
+server.ps1
+
+# System files
+.DS_Store
+Thumbs.db
